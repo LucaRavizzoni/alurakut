@@ -24,11 +24,9 @@ export default function Home() {
     "juunegreiros",
     "peas",
     "omariosouto",
-    "rafaballerini",
     "felipefialho",
     "gustavomaes",
     "EduardoBmx",
-    "matheussn",
   ];
 
   return (
