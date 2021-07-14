@@ -26,6 +26,7 @@ export default function Home() {
     "omariosouto",
     "rafaballerini",
     "felipefialho",
+    "gustavomaes",
   ];
 
   return (
