@@ -9,10 +9,13 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box; 
    }
     
+   //Tentativa de mudar o brackground por uma iamgem
     body {  
-    background-color: #D9E6F6;
-    font-family: sans-serif:
-  }
+      background-image: url('https://pixelz.cc/wp-content/uploads/2019/12/fortnite-loading-screen-llama-uhd-4k-wallpaper.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      font-family: sans-serif;
+   }
 
   #__next {
     display: flex;
